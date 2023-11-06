@@ -24,7 +24,6 @@
 |saturate()|채도 효과| 
 |url()|SVG 필터 URL|
 
-
 <br>
 
 ### 2. css : white-space
@@ -39,7 +38,6 @@
 |pre-line|유지|병합|예|제거
 |break-spaces|유지|유지|예|줄 바꿈
 
-
 <br>
 
 ### 3. css : background-size
@@ -51,7 +49,7 @@
 |cover|이미지의 비율을 유지하면서 컨테이너를 채울 수 있는 가장 작은 크기<br>(즉, 높이와 너비가 모두 컨테이너를 완전히 덮음 )로 빈 공간을 남기지 않고 크기를 조정합|
 |auto|고유한 비율이 유지되도록 해당 방향으로 배경 이미지의 크기를 조정|
 
-<<br>>
+<br>
 
 ### 4. js : mouseenter, mouseleave VS  mouseover, mouseout
 <span style="background: pink; font-weight: bold">mouseenter, mouseover</span>  
